@@ -20,6 +20,8 @@ https://docs.m5stack.com/#/en/quick_start/m5core/m5stack_core_get_started_Arduin
 ## 2. Example
 
 https://github.com/m5stack/M5Stack/tree/master/examples
+OR
+https://github.com/sswamyn/M5Stack/tree/master/examples
 
 ## 3. API Reference
 
